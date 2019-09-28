@@ -1,7 +1,7 @@
 spring:
-    application:
-        name: qiu-user-authentication
+  application:
+    name: qiu-user-authentication
 server:
-    port: 9095
-    
+  port: 9095
+
 myValue: spring config success!
